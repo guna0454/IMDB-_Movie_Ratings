@@ -1,0 +1,11 @@
+AIzaSyD4JWPABhullCpj0OCuMIhyO1KYhOF-o34
+https://github.com/guna0454/IMDB-_Movie_Ratings.git
+
+
+echo "# IMDB-_Movie_Ratings" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/guna0454/IMDB-_Movie_Ratings.git
+git push -u origin main
